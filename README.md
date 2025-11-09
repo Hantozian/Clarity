@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="httpsimg" width="120">
-
 # Clarity | UI Mock-up 🎨✨
 
 **The Visual Concept for the Text Summarization Feature.**
